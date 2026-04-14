@@ -1,0 +1,9 @@
+{ 
+  "name": "lovecheese",
+  "version": "1.0.0",
+  "description": "A Scratch-like visual programming platform with several custom games.",
+  "main": "index.html",
+  "scripts": {},
+  "author": "sharkenboy0-afk",
+  "license": "ISC"
+}
